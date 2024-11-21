@@ -1,0 +1,17 @@
+.link {
+  text-decoration: none;
+  width: 20%;
+  margin: 5px;
+}
+.course-item {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 5px;
+}
+.course-name {
+  font-family: 'Roboto';
+  font-size: 15px;
+  color: #1e293b;
+  margin-left: 3px;
+}

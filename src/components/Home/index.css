@@ -1,0 +1,35 @@
+.home-bg-container {
+  padding: 20px;
+}
+.loader-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.failure-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.failure-image {
+  width: 500px;
+}
+.retry-button {
+  width: 100px;
+  height: 40px;
+  font-family: 'Roboto';
+  color: white;
+  background-color: #1e293b;
+  border: none;
+  border-radius: 5px;
+}
+.course-list-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  list-style: none;
+}
